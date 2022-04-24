@@ -1,7 +1,7 @@
 #all{
     background-color: #0E1C63;
 }
-#pictures{
+.pictures{
     border: 5px solid #3C415D;
     background-color: #3C415D;
 }
@@ -21,7 +21,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
 }
-#a{
+#DontLookUp{
     color: #F06606;
     font-size: 15px;
     padding: 10px;
@@ -30,7 +30,7 @@
     margin: 10px
     
 }
-#b{
+#BATMAN{
     color: #F06606;
     font-size: 15px;
     padding: 10px;
@@ -38,7 +38,7 @@
     background-color: #ECB91D;
     margin: 10px
 }
-#c{
+#MATRIX{
     color: #F06606;
     font-size: 15px;
     padding: 10px;
